@@ -1,5 +1,6 @@
 Cypress Automation Test for Zipboard
 This README provides step-by-step instructions to install, set up, and run a Cypress automated test for zipBoard.
+Note: Cypres moncha framework was used for this project
 
 Prerequisites
 Node.js (Download from node from https://nodejs.org/en)
